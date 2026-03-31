@@ -7,7 +7,7 @@ This repository contains my GitHub profile README, showcasing my academic backgr
 - Name: Niharika Dafle
 - Course: Btech Bioengineering
 - Subject: Digital Literacy
-- 
+  
 
 ## 👩‍💻 About Me
 I am an enthusiastic and dedicated Bioengineering student with a strong interest in technology and innovation. I enjoy learning new programming concepts, exploring different tools, and continuously improving my problem-solving abilities. I am passionate about building meaningful projects and gaining practical knowledge that can help me grow as a developer.
